@@ -445,7 +445,21 @@
                             
 				<div class="col-sm-4">
 
-					<div class="menu">
+				
+                                    
+                                <div class="menu">
+						<div class="row">
+							<div class="col-sm-8">
+								<h4 class="menu-title">Cheese Pakora</h4>
+								<div class="menu-detail">Indian style homemade cheese dipped in a light batter and deep fried, served with hot mint and sweet chutney</div>
+							</div>
+							<div class="col-sm-4 menu-price-detail">
+								<h4 class="menu-price">$5.49</h4>
+							</div>
+						</div>
+					</div>
+                                    
+                                	<div class="menu">
                                             
 						<div class="row">
                                                    		
@@ -457,10 +471,35 @@
 								<h4 class="menu-price">$2.49</h4>
 							</div>
 						</div>
-					</div>
+					</div>    
+                                         
+
+					 
+
+				</div><!-- .col-sm-4 -->
+                                
+                                
+
+				<div class="col-sm-4">
                                     
                                         <div class="menu">
 						<div class="row">
+							<div class="col-sm-8">
+								<h4 class="menu-title">Vegetable Pakora</h4>
+								<div class="menu-detail">Mixed Vegetable dipped in a light corn flour batter and deep fried, served with hot mint and sweet chutney</div>
+							</div>
+							<div class="col-sm-4 menu-price-detail">
+								<h4 class="menu-price">$4.49</h4>
+							</div>
+						</div>
+					</div>
+                                    
+                                        
+                                    
+                                        <div class="menu">
+                                            
+						<div class="row">
+                                                   		
 							<div class="col-sm-8">
 								<h4 class="menu-title">Papadum</h4>
 								<div class="menu-detail">Crisp lentil wafers, lightly spiced</div>
@@ -471,181 +510,7 @@
 						</div>
 					</div>
                                     
-                                        <div class="menu">
-						<div class="row">
-							<div class="col-sm-8">
-								<h4 class="menu-title">Wild Mushroom Bucatini with Kale</h4>
-								<div class="menu-detail">Mushroom / Veggie / White Sources</div>
-							</div>
-							<div class="col-sm-4 menu-price-detail">
-								<h4 class="menu-price">$10.5</h4>
-							</div>
-						</div>
-					</div>
-
-					<div class="menu">
-						<div class="row">
-							<div class="col-sm-8">
-								<h4 class="menu-title">Lemon and Garlic Green Beans</h4>
-								<div class="menu-detail">Lemon / Garlic / Beans</div>
-							</div>
-							<div class="col-sm-4 menu-price-detail">
-								<h4 class="menu-price">$14.5</h4>
-								<div class="menu-label">New</div>
-							</div>
-						</div>
-					</div>
-
-					<div class="menu">
-						<div class="row">
-							<div class="col-sm-8">
-								<h4 class="menu-title">LambBeef Kofka Skewers with Tzatziki</h4>
-								<div class="menu-detail">Lamb / Wine / Butter</div>
-							</div>
-							<div class="col-sm-4 menu-price-detail">
-								<h4 class="menu-price">$18.5</h4>
-							</div>
-						</div>
-					</div>
-
-					<div class="menu">
-						<div class="row">
-							<div class="col-sm-8">
-								<h4 class="menu-title">Imported Oysters Grill (5 Pieces)</h4>
-								<div class="menu-detail">Oysters / Veggie / Ginger</div>
-							</div>
-							<div class="col-sm-4 menu-price-detail">
-								<h4 class="menu-price">$15.9</h4>
-							</div>
-						</div>
-					</div>
-
-					<div class="menu">
-						<div class="row">
-							<div class="col-sm-8">
-								<h4 class="menu-title">Meatloaf with Black Pepper-Honey BBQ</h4>
-								<div class="menu-detail">Pepper / Chicken / Honey</div>
-							</div>
-							<div class="col-sm-4 menu-price-detail">
-								<h4 class="menu-price">$16.4</h4>
-							</div>
-						</div>
-					</div>
-                                    
-                                        <div class="menu">
-						<div class="row">
-							<div class="col-sm-8">
-								<h4 class="menu-title">Wild Mushroom Bucatini with Kale</h4>
-								<div class="menu-detail">Mushroom / Veggie / White Sources</div>
-							</div>
-							<div class="col-sm-4 menu-price-detail">
-								<h4 class="menu-price">$10.5</h4>
-							</div>
-						</div>
-					</div>
-
-				</div><!-- .col-sm-4 -->
-                                
-                                
-
-				<div class="col-sm-4">
-                                    
-                                        <div class="menu">
-						<div class="row">
-							<div class="col-sm-8">
-								<h4 class="menu-title">Wild Mushroom Bucatini with Kale</h4>
-								<div class="menu-detail">Mushroom / Veggie / White Sources</div>
-							</div>
-							<div class="col-sm-4 menu-price-detail">
-								<h4 class="menu-price">$10.5</h4>
-							</div>
-						</div>
-					</div>
-                                    
-                                        <div class="menu">
-						<div class="row">
-							<div class="col-sm-8">
-								<h4 class="menu-title">Wild Mushroom Bucatini with Kale</h4>
-								<div class="menu-detail">Mushroom / Veggie / White Sources</div>
-							</div>
-							<div class="col-sm-4 menu-price-detail">
-								<h4 class="menu-price">$10.5</h4>
-							</div>
-						</div>
-					</div>
-                                    
-                                        <div class="menu">
-						<div class="row">
-							<div class="col-sm-8">
-								<h4 class="menu-title">Wild Mushroom Bucatini with Kale</h4>
-								<div class="menu-detail">Mushroom / Veggie / White Sources</div>
-							</div>
-							<div class="col-sm-4 menu-price-detail">
-								<h4 class="menu-price">$10.5</h4>
-							</div>
-						</div>
-					</div>
-
-					<div class="menu">
-						<div class="row">
-							<div class="col-sm-8">
-								<h4 class="menu-title">Wild Mushroom Bucatini with Kale</h4>
-								<div class="menu-detail">Mushroom / Veggie / White Sources</div>
-							</div>
-							<div class="col-sm-4 menu-price-detail">
-								<h4 class="menu-price">$14.5</h4>
-							</div>
-						</div>
-					</div>
-
-					<div class="menu">
-						<div class="row">
-							<div class="col-sm-8">
-								<h4 class="menu-title">Lemon and Garlic Green Beans</h4>
-								<div class="menu-detail">Lemon / Garlic / Beans</div>
-							</div>
-							<div class="col-sm-4 menu-price-detail">
-								<h4 class="menu-price">$14.5</h4>
-							</div>
-						</div>
-					</div>
-
-					<div class="menu">
-						<div class="row">
-							<div class="col-sm-8">
-								<h4 class="menu-title">LambBeef Kofka Skewers with Tzatziki</h4>
-								<div class="menu-detail">Lamb / Wine / Butter</div>
-							</div>
-							<div class="col-sm-4 menu-price-detail">
-								<h4 class="menu-price">$18.5</h4>
-								<div class="menu-label">Recommended</div>
-							</div>
-						</div>
-					</div>
-
-					<div class="menu">
-						<div class="row">
-							<div class="col-sm-8">
-								<h4 class="menu-title">Imported Oysters Grill (5 Pieces)</h4>
-								<div class="menu-detail">Oysters / Veggie / Ginger</div>
-							</div>
-							<div class="col-sm-4 menu-price-detail">
-								<h4 class="menu-price">$15.9</h4>
-							</div>
-						</div>
-					</div>
-
-					<div class="menu">
-						<div class="row">
-							<div class="col-sm-8">
-								<h4 class="menu-title">Meatloaf with Black Pepper-Honey BBQ</h4>
-								<div class="menu-detail">Pepper / Chicken / Honey</div>
-							</div>
-							<div class="col-sm-4 menu-price-detail">
-								<h4 class="menu-price">$16.4</h4>
-							</div>
-						</div>
-					</div>
+                                         
 
 				</div><!-- .col-sm-4 -->
 
@@ -654,286 +519,102 @@
 					<div class="menu">
 						<div class="row">
 							<div class="col-sm-8">
-								<h4 class="menu-title">Wild Mushroom Bucatini with Kale</h4>
-								<div class="menu-detail">Mushroom / Veggie / White Sources</div>
+								<h4 class="menu-title">Onion Bhaji</h4>
+								<div class="menu-detail">Onions dipped in a corn flour batter and deep fried, served with hot mint and sweet chutney</div>
 							</div>
 							<div class="col-sm-4 menu-price-detail">
-								<h4 class="menu-price">$10.5</h4>
-							</div>
+								<h4 class="menu-price">$4.49</h4>
+							</div> 
 						</div>
 					</div>
 
-					<div class="menu">
-						<div class="row">
-							<div class="col-sm-8">
-								<h4 class="menu-title">Lemon and Garlic Green Beans</h4>
-								<div class="menu-detail">Lemon / Garlic / Beans</div>
-							</div>
-							<div class="col-sm-4 menu-price-detail">
-								<h4 class="menu-price">$14.5</h4>
-								<div class="menu-label">New</div>
-							</div>
-						</div>
-					</div>
-
-					<div class="menu">
-						<div class="row">
-							<div class="col-sm-8">
-								<h4 class="menu-title">LambBeef Kofka Skewers with Tzatziki</h4>
-								<div class="menu-detail">Lamb / Wine / Butter</div>
-							</div>
-							<div class="col-sm-4 menu-price-detail">
-								<h4 class="menu-price">$18.5</h4>
-							</div>
-						</div>
-					</div>
-
-					<div class="menu">
-						<div class="row">
-							<div class="col-sm-8">
-								<h4 class="menu-title">Imported Oysters Grill (5 Pieces)</h4>
-								<div class="menu-detail">Oysters / Veggie / Ginger</div>
-							</div>
-							<div class="col-sm-4 menu-price-detail">
-								<h4 class="menu-price">$15.9</h4>
-							</div>
-						</div>
-					</div>
-
-					<div class="menu">
-						<div class="row">
-							<div class="col-sm-8">
-								<h4 class="menu-title">Meatloaf with Black Pepper-Honey BBQ</h4>
-								<div class="menu-detail">Pepper / Chicken / Honey</div>
-							</div>
-							<div class="col-sm-4 menu-price-detail">
-								<h4 class="menu-price">$16.4</h4>
-							</div>
-						</div>
-					</div>
+                                            
 
 				</div><!-- .col-sm-4 -->
+                                
 
 			</div><!-- .row -->
                         
-                        
-                        
-
-			<div class="row">
+                           
 				<div class="col-sm-6 col-sm-offset-3">
 					<div class="devider">
+                                             <h3 class="module-title">Basmati Rice and Biryanis</h3>
 						<img src="assets/images/divider-down.svg" alt="">
+                                                <br>    <br>
 					</div>
+                                    <br>
 				</div>
-			</div><!-- .row Appetizer end-->
+			 <!-- .row Appetizer end-->
+                        
+
+			
                         
                         
                         <div class="row"> <!-- .row Basmati Rice and Biryani Start-->
                             
 				<div class="col-sm-4">
 
+                                    
+                                        <div class="menu">
+						<div class="row">
+							<div class="col-sm-8">
+								<h4 class="menu-title">Vegetable Biryani</h4>
+								<div class="menu-detail">Basmati rice cooked with mix vegetables in a blend of curry and flavored with nuts and raisin</div>
+							</div>
+							<div class="col-sm-4 menu-price-detail">
+								<h4 class="menu-price">$8.99</h4>
+							</div>
+						</div>
+					</div>
+                                    
+                                        <div class="menu">
+						<div class="row">
+							<div class="col-sm-8">
+								<h4 class="menu-title">Mix Vegetable Pulao</h4>
+								<div class="menu-detail">Steamed Basmati rice with mix vegetable</div>
+                                                                
+                                                        </div>
+							<div class="col-sm-4 menu-price-detail">
+								<h4 class="menu-price">$6.49</h4>
+							</div>
+						</div>
+					</div>
+                                     
+				</div><!-- .col-sm-4 -->
+                                
+                                
+
+				<div class="col-sm-4">
+                                    
+                                        <div class="menu">
+						<div class="row">
+							<div class="col-sm-8">
+								<h4 class="menu-title">Shrimp Biryani</h4>
+								<div class="menu-detail">Basmati rice cooked with tiger shrimp in blend of curry and flavored with nuts and raisins</div>
+							</div>
+							<div class="col-sm-4 menu-price-detail">
+								<h4 class="menu-price">$11.99</h4>
+								<div class="menu-label">New</div>
+							</div>
+						</div>
+					</div>
+                                    
+                                        
 					<div class="menu">
                                             
 						<div class="row">
                                                    		
 							<div class="col-sm-8">
-								<h4 class="menu-title">Vegetable Samosa</h4>
-								<div class="menu-detail">Crisp and spiced patties stuffed with potatoes and peas</div>
-							</div>
+								<h4 class="menu-title">Jeera Rice </h4>
+								<div class="menu-detail">Steamed Basmati rice with cumin seeds</div>
+                                                                 
+                                                        </div>
 							<div class="col-sm-4 menu-price-detail">
-								<h4 class="menu-price">$2.49</h4>
+								<h4 class="menu-price">$3.99</h4>
 							</div>
 						</div>
 					</div>
                                     
-                                        <div class="menu">
-						<div class="row">
-							<div class="col-sm-8">
-								<h4 class="menu-title">Papadum</h4>
-								<div class="menu-detail">Crisp lentil wafers, lightly spiced</div>
-							</div>
-							<div class="col-sm-4 menu-price-detail">
-								<h4 class="menu-price">$1.49</h4>
-							</div>
-						</div>
-					</div>
-                                    
-                                        <div class="menu">
-						<div class="row">
-							<div class="col-sm-8">
-								<h4 class="menu-title">Wild Mushroom Bucatini with Kale</h4>
-								<div class="menu-detail">Mushroom / Veggie / White Sources</div>
-							</div>
-							<div class="col-sm-4 menu-price-detail">
-								<h4 class="menu-price">$10.5</h4>
-							</div>
-						</div>
-					</div>
-
-					<div class="menu">
-						<div class="row">
-							<div class="col-sm-8">
-								<h4 class="menu-title">Lemon and Garlic Green Beans</h4>
-								<div class="menu-detail">Lemon / Garlic / Beans</div>
-							</div>
-							<div class="col-sm-4 menu-price-detail">
-								<h4 class="menu-price">$14.5</h4>
-								<div class="menu-label">New</div>
-							</div>
-						</div>
-					</div>
-
-					<div class="menu">
-						<div class="row">
-							<div class="col-sm-8">
-								<h4 class="menu-title">LambBeef Kofka Skewers with Tzatziki</h4>
-								<div class="menu-detail">Lamb / Wine / Butter</div>
-							</div>
-							<div class="col-sm-4 menu-price-detail">
-								<h4 class="menu-price">$18.5</h4>
-							</div>
-						</div>
-					</div>
-
-					<div class="menu">
-						<div class="row">
-							<div class="col-sm-8">
-								<h4 class="menu-title">Imported Oysters Grill (5 Pieces)</h4>
-								<div class="menu-detail">Oysters / Veggie / Ginger</div>
-							</div>
-							<div class="col-sm-4 menu-price-detail">
-								<h4 class="menu-price">$15.9</h4>
-							</div>
-						</div>
-					</div>
-
-					<div class="menu">
-						<div class="row">
-							<div class="col-sm-8">
-								<h4 class="menu-title">Meatloaf with Black Pepper-Honey BBQ</h4>
-								<div class="menu-detail">Pepper / Chicken / Honey</div>
-							</div>
-							<div class="col-sm-4 menu-price-detail">
-								<h4 class="menu-price">$16.4</h4>
-							</div>
-						</div>
-					</div>
-                                    
-                                        <div class="menu">
-						<div class="row">
-							<div class="col-sm-8">
-								<h4 class="menu-title">Wild Mushroom Bucatini with Kale</h4>
-								<div class="menu-detail">Mushroom / Veggie / White Sources</div>
-							</div>
-							<div class="col-sm-4 menu-price-detail">
-								<h4 class="menu-price">$10.5</h4>
-							</div>
-						</div>
-					</div>
-
-				</div><!-- .col-sm-4 -->
-                                
-                                
-
-				<div class="col-sm-4">
-                                    
-                                        <div class="menu">
-						<div class="row">
-							<div class="col-sm-8">
-								<h4 class="menu-title">Wild Mushroom Bucatini with Kale</h4>
-								<div class="menu-detail">Mushroom / Veggie / White Sources</div>
-							</div>
-							<div class="col-sm-4 menu-price-detail">
-								<h4 class="menu-price">$10.5</h4>
-							</div>
-						</div>
-					</div>
-                                    
-                                        <div class="menu">
-						<div class="row">
-							<div class="col-sm-8">
-								<h4 class="menu-title">Wild Mushroom Bucatini with Kale</h4>
-								<div class="menu-detail">Mushroom / Veggie / White Sources</div>
-							</div>
-							<div class="col-sm-4 menu-price-detail">
-								<h4 class="menu-price">$10.5</h4>
-							</div>
-						</div>
-					</div>
-                                    
-                                        <div class="menu">
-						<div class="row">
-							<div class="col-sm-8">
-								<h4 class="menu-title">Wild Mushroom Bucatini with Kale</h4>
-								<div class="menu-detail">Mushroom / Veggie / White Sources</div>
-							</div>
-							<div class="col-sm-4 menu-price-detail">
-								<h4 class="menu-price">$10.5</h4>
-							</div>
-						</div>
-					</div>
-
-					<div class="menu">
-						<div class="row">
-							<div class="col-sm-8">
-								<h4 class="menu-title">Wild Mushroom Bucatini with Kale</h4>
-								<div class="menu-detail">Mushroom / Veggie / White Sources</div>
-							</div>
-							<div class="col-sm-4 menu-price-detail">
-								<h4 class="menu-price">$14.5</h4>
-							</div>
-						</div>
-					</div>
-
-					<div class="menu">
-						<div class="row">
-							<div class="col-sm-8">
-								<h4 class="menu-title">Lemon and Garlic Green Beans</h4>
-								<div class="menu-detail">Lemon / Garlic / Beans</div>
-							</div>
-							<div class="col-sm-4 menu-price-detail">
-								<h4 class="menu-price">$14.5</h4>
-							</div>
-						</div>
-					</div>
-
-					<div class="menu">
-						<div class="row">
-							<div class="col-sm-8">
-								<h4 class="menu-title">LambBeef Kofka Skewers with Tzatziki</h4>
-								<div class="menu-detail">Lamb / Wine / Butter</div>
-							</div>
-							<div class="col-sm-4 menu-price-detail">
-								<h4 class="menu-price">$18.5</h4>
-								<div class="menu-label">Recommended</div>
-							</div>
-						</div>
-					</div>
-
-					<div class="menu">
-						<div class="row">
-							<div class="col-sm-8">
-								<h4 class="menu-title">Imported Oysters Grill (5 Pieces)</h4>
-								<div class="menu-detail">Oysters / Veggie / Ginger</div>
-							</div>
-							<div class="col-sm-4 menu-price-detail">
-								<h4 class="menu-price">$15.9</h4>
-							</div>
-						</div>
-					</div>
-
-					<div class="menu">
-						<div class="row">
-							<div class="col-sm-8">
-								<h4 class="menu-title">Meatloaf with Black Pepper-Honey BBQ</h4>
-								<div class="menu-detail">Pepper / Chicken / Honey</div>
-							</div>
-							<div class="col-sm-4 menu-price-detail">
-								<h4 class="menu-price">$16.4</h4>
-							</div>
-						</div>
-					</div>
-
 				</div><!-- .col-sm-4 -->
 
 				<div class="col-sm-4">
@@ -941,75 +622,145 @@
 					<div class="menu">
 						<div class="row">
 							<div class="col-sm-8">
-								<h4 class="menu-title">Wild Mushroom Bucatini with Kale</h4>
-								<div class="menu-detail">Mushroom / Veggie / White Sources</div>
+								<h4 class="menu-title">Biryani (Mutton or Chicken)</h4>
+								<div class="menu-detail">Boneless Lamb or chicken marinated with spices and cooked with basmati rice flavored with nuts and raisin</div>
 							</div>
 							<div class="col-sm-4 menu-price-detail">
-								<h4 class="menu-price">$10.5</h4>
+								<h4 class="menu-price">$10.49</h4>
 							</div>
 						</div>
 					</div>
 
-					<div class="menu">
+					
+                                    
+                                        <div class="menu">
 						<div class="row">
 							<div class="col-sm-8">
-								<h4 class="menu-title">Lemon and Garlic Green Beans</h4>
-								<div class="menu-detail">Lemon / Garlic / Beans</div>
+								<h4 class="menu-title">Matar Paneer Pulao</h4>
+								<div class="menu-detail">Steamed Basmati rice cooked with green peas and homemade cheese </div>
 							</div>
 							<div class="col-sm-4 menu-price-detail">
-								<h4 class="menu-price">$14.5</h4>
-								<div class="menu-label">New</div>
+								<h4 class="menu-price">$7.49</h4>
 							</div>
 						</div>
 					</div>
 
-					<div class="menu">
-						<div class="row">
-							<div class="col-sm-8">
-								<h4 class="menu-title">LambBeef Kofka Skewers with Tzatziki</h4>
-								<div class="menu-detail">Lamb / Wine / Butter</div>
-							</div>
-							<div class="col-sm-4 menu-price-detail">
-								<h4 class="menu-price">$18.5</h4>
-							</div>
-						</div>
-					</div>
-
-					<div class="menu">
-						<div class="row">
-							<div class="col-sm-8">
-								<h4 class="menu-title">Imported Oysters Grill (5 Pieces)</h4>
-								<div class="menu-detail">Oysters / Veggie / Ginger</div>
-							</div>
-							<div class="col-sm-4 menu-price-detail">
-								<h4 class="menu-price">$15.9</h4>
-							</div>
-						</div>
-					</div>
-
-					<div class="menu">
-						<div class="row">
-							<div class="col-sm-8">
-								<h4 class="menu-title">Meatloaf with Black Pepper-Honey BBQ</h4>
-								<div class="menu-detail">Pepper / Chicken / Honey</div>
-							</div>
-							<div class="col-sm-4 menu-price-detail">
-								<h4 class="menu-price">$16.4</h4>
-							</div>
-						</div>
-					</div>
+					
 
 				</div><!-- .col-sm-4 -->
 
-			</div><!-- .row -->
+			</div><!-- .row Basmati Rice and Biryanis end  -->
                         
-                        <div class="row">
-				<div class="col-sm-6 col-sm-offset-3">
+                       <div class="col-sm-6 col-sm-offset-3">
 					<div class="devider">
+                                             <h3 class="module-title">Tandoori Breads</h3>
 						<img src="assets/images/divider-down.svg" alt="">
+                                                <br>    <br>
 					</div>
-				</div>
-			</div><!-- .row -->
+                                    <br>
+			</div><!-- .row  -->
+                        
+                        
+                        <div class="row"> <!-- .row  Tandoori Breads  Start-->
+                            
+				<div class="col-sm-4">
+
+                                    
+                                        <div class="menu">
+						<div class="row">
+							<div class="col-sm-8">
+								<h4 class="menu-title">Vegetable Biryani</h4>
+								<div class="menu-detail">Basmati rice cooked with mix vegetables in a blend of curry and flavored with nuts and raisin</div>
+							</div>
+							<div class="col-sm-4 menu-price-detail">
+								<h4 class="menu-price">$8.99</h4>
+							</div>
+						</div>
+					</div>
+                                    
+                                        <div class="menu">
+						<div class="row">
+							<div class="col-sm-8">
+								<h4 class="menu-title">Mix Vegetable Pulao</h4>
+								<div class="menu-detail">Steamed Basmati rice with mix vegetable</div>
+                                                                
+                                                        </div>
+							<div class="col-sm-4 menu-price-detail">
+								<h4 class="menu-price">$6.49</h4>
+							</div>
+						</div>
+					</div>
+                                     
+				</div><!-- .col-sm-4 -->
+                                
+                                
+
+				<div class="col-sm-4">
+                                    
+                                        <div class="menu">
+						<div class="row">
+							<div class="col-sm-8">
+								<h4 class="menu-title">Shrimp Biryani</h4>
+								<div class="menu-detail">Basmati rice cooked with tiger shrimp in blend of curry and flavored with nuts and raisins</div>
+							</div>
+							<div class="col-sm-4 menu-price-detail">
+								<h4 class="menu-price">$11.99</h4>
+								<div class="menu-label">New</div>
+							</div>
+						</div>
+					</div>
+                                    
+                                        
+					<div class="menu">
+                                            
+						<div class="row">
+                                                   		
+							<div class="col-sm-8">
+								<h4 class="menu-title">Jeera Rice </h4>
+								<div class="menu-detail">Steamed Basmati rice with cumin seeds</div>
+                                                                 
+                                                        </div>
+							<div class="col-sm-4 menu-price-detail">
+								<h4 class="menu-price">$3.99</h4>
+							</div>
+						</div>
+					</div>
+                                    
+				</div><!-- .col-sm-4 -->
+
+				<div class="col-sm-4">
+
+					<div class="menu">
+						<div class="row">
+							<div class="col-sm-8">
+								<h4 class="menu-title">Biryani (Mutton or Chicken)</h4>
+								<div class="menu-detail">Boneless Lamb or chicken marinated with spices and cooked with basmati rice flavored with nuts and raisin</div>
+							</div>
+							<div class="col-sm-4 menu-price-detail">
+								<h4 class="menu-price">$10.49</h4>
+							</div>
+						</div>
+					</div>
+
+					
+                                    
+                                        <div class="menu">
+						<div class="row">
+							<div class="col-sm-8">
+								<h4 class="menu-title">Matar Paneer Pulao</h4>
+								<div class="menu-detail">Steamed Basmati rice cooked with green peas and homemade cheese </div>
+							</div>
+							<div class="col-sm-4 menu-price-detail">
+								<h4 class="menu-price">$7.49</h4>
+							</div>
+						</div>
+					</div>
+
+					
+
+				</div><!-- .col-sm-4 -->
+
+			</div>
 
 		</div><!-- .container -->
 	</section>
