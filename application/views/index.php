@@ -6,7 +6,7 @@
 	<meta name="description" content="">
 	<meta name="author" content="">
 
-	<title>Cafeter -  Responsive Restaurant Template</title>
+	<title>Regency Restaurant -  Indian Buffet</title>
 
 	<!-- CSS -->
 	<!-- Bootstrap core CSS -->
@@ -140,7 +140,7 @@
 
 	<!-- Home start -->
     <div class="parallax"></div>
-	<section id="home" class="intro-module module-image heightfull bg-dark-alfa-30">
+	<section id="home" class="intro-module module-image heightfull bg-dark-alfa-60">
 
 		<div class="intro">
 
@@ -199,7 +199,7 @@
 	<!-- Callout section start -->
         <div class="parallax"></div>
 
-	<section id="callout-one" class="callout bg-dark-alfa-30">
+	<section id="callout-one" class="callout bg-dark-alfa-60">
 		<div class="container">
 		<div class="col-sm-6 col-sm-offset-3">
 					<div class="devider">
@@ -217,212 +217,7 @@
 
 	<!-- Callout section end -->
 
-<!--	 Dishes start 
 
-	<section id="dishes" class="module">
-		<div class="container">
-
-			<div class="row">
-				<div class="col-sm-6 col-sm-offset-3">
-					<div class="module-header">
-						<h2 class="module-title">Chef Recommended</h2>
-						<h3 class="module-subtitle">Signatures dishes recommend by our chef</h3>
-					</div>
-				</div>
-			</div> .row 
-
-			<div class="row">
-
-				<div class="col-sm-4">
-					<div class="menu-classic">
-						<figure class="overlay">
-							<img src="assets/images/dishes-1-1.jpg" alt="">
-							<figcaption>
-								<a href="assets/images/dishes-1-1.jpg" class="popup-image" title="Wild Mushroom Bucatini"></a>
-								<div class="caption-inner">
-									<div class="overlay-icon">
-										<span class="icon-magnifier"></span>
-									</div>
-								</div>
-							</figcaption>
-						</figure>
-						<div class="menu">
-							<div class="row">
-								<div class="col-sm-9">
-									<h4 class="menu-title">Wild Mushroom Bucatini</h4>
-									<div class="menu-detail">Mushroom / Veggie / White Sources</div>
-								</div>
-								<div class="col-sm-3 menu-price-detail">
-									<h4 class="menu-price">$12</h4>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-
-				<div class="col-sm-4">
-					<div class="menu-classic">
-						<figure class="overlay">
-							<img src="assets/images/dishes-2-2.jpg" alt="">
-							<figcaption>
-								<a href="assets/images/dishes-2-2.jpg" class="popup-image" title="Imported Oysters Grill"></a>
-								<div class="caption-inner">
-									<div class="overlay-icon">
-										<span class="icon-magnifier"></span>
-									</div>
-								</div>
-							</figcaption>
-						</figure>
-						<div class="menu">
-							<div class="row">
-								<div class="col-sm-9">
-									<h4 class="menu-title">Imported Oysters Grill (5 Pieces)</h4>
-									<div class="menu-detail">Oysters / Veggie / Ginger</div>
-								</div>
-								<div class="col-sm-3 menu-price-detail">
-									<h4 class="menu-price">$10.5</h4>
-									<span class="menu-label">New</span>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-
-				<div class="col-sm-4">
-					<div class="menu-classic">
-						<figure class="overlay">
-							<img src="assets/images/dishes-3-3.jpg" alt="">
-							<figcaption>
-								<a href="assets/images/dishes-3-3.jpg" class="popup-image" title="Lemon and Garlic Green Beans"></a>
-								<div class="caption-inner">
-									<div class="overlay-icon">
-										<span class="icon-magnifier"></span>
-									</div>
-								</div>
-							</figcaption>
-						</figure>
-						<div class="menu">
-							<div class="row">
-								<div class="col-sm-9">
-									<h4 class="menu-title">Lemon and Garlic Green Beans</h4>
-									<div class="menu-detail">Pepper / Chicken / Honey</div>
-								</div>
-								<div class="col-sm-3 menu-price-detail">
-									<h4 class="menu-price">$8.5</h4>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-
-			</div> .row 
-
-			<div class="row">
-
-				<div class="col-sm-4">
-					<div class="menu-classic">
-						<figure class="overlay">
-							<img src="assets/images/dishes-4-4.jpg" alt="">
-							<figcaption>
-								<a href="assets/images/dishes-4-4.jpg" class="popup-image" title="Meatloaf with Black Pepper"></a>
-								<div class="caption-inner">
-									<div class="overlay-icon">
-										<span class="icon-magnifier"></span>
-									</div>
-								</div>
-							</figcaption>
-						</figure>
-						<div class="menu">
-							<div class="row">
-								<div class="col-sm-9">
-									<h4 class="menu-title">Meatloaf with Black Pepper</h4>
-									<div class="menu-detail">Pepper / Chicken / Honey</div>
-								</div>
-								<div class="col-sm-3 menu-price-detail">
-									<h4 class="menu-price">$14.5</h4>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-
-				<div class="col-sm-4">
-					<div class="menu-classic">
-						<figure class="overlay">
-							<img src="assets/images/dishes-5-5.jpg" alt="">
-							<figcaption>
-								<a href="assets/images/dishes-5-5.jpg" class="popup-image" title="LambBeef Kofka Skewers"></a>
-								<div class="caption-inner">
-									<div class="overlay-icon">
-										<span class="icon-magnifier"></span>
-									</div>
-								</div>
-							</figcaption>
-						</figure>
-						<div class="menu">
-							<div class="row">
-								<div class="col-sm-9">
-									<h4 class="menu-title">LambBeef Kofka Skewers</h4>
-									<div class="menu-detail">Lemon / Garlic / Beans</div>
-								</div>
-								<div class="col-sm-3 menu-price-detail">
-									<h4 class="menu-price">$16</h4>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-
-				<div class="col-sm-4">
-					<div class="menu-classic">
-						<figure class="overlay">
-							<img src="assets/images/dishes-6-6.jpg" alt="">
-							<figcaption>
-								<a href="assets/images/dishes-6-6.jpg" class="popup-image" title="Wild Mushroom Bucatini"></a>
-								<div class="caption-inner">
-									<div class="overlay-icon">
-										<span class="icon-magnifier"></span>
-									</div>
-								</div>
-							</figcaption>
-						</figure>
-						<div class="menu">
-							<div class="row">
-								<div class="col-sm-9">
-									<h4 class="menu-title">Wild Mushroom Bucatini</h4>
-									<div class="menu-detail">Lamb / Wine / Butter</div>
-								</div>
-								<div class="col-sm-3 menu-price-detail">
-									<h4 class="menu-price">$11</h4>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-
-			</div> .row 
-
-
-		</div> .container 
-	</section>
-
-	 Dishes end 
-
-	 Callout section start 
-
-	<section id="callout-two" class="callout bg-dark-alfa-30">
-		<div class="container">
-
-			<div class="row">
-				<div class="col-sm-12">
-					<h2 class="callout-text">Try the taste of Italy.</h2>
-				</div>
-			</div> .row 
-
-		</div> .container 
-	</section>
-
-	 Callout section end -->
 
 	<!-- Popular start -->
 
@@ -665,28 +460,45 @@
                             
 				<div class="col-sm-4">
 
-                                    
-                                        <div class="menu">
+                                        
+                                        
+					<div class="menu">
+                                            
 						<div class="row">
+                                                   		
 							<div class="col-sm-8">
-								<h4 class="menu-title">Vegetable Biryani</h4>
-								<div class="menu-detail">Basmati rice cooked with mix vegetables in a blend of curry and flavored with nuts and raisin</div>
-							</div>
+								<h4 class="menu-title">Keema Naan  </h4>
+								<div class="menu-detail">Tandoori bread baked and stuffed with minced lamb or chicken meat</div>
+                                                                 
+                                                        </div>
 							<div class="col-sm-4 menu-price-detail">
-								<h4 class="menu-price">$8.99</h4>
+								<h4 class="menu-price">$3.49</h4>
 							</div>
 						</div>
 					</div>
+                                        
                                     
                                         <div class="menu">
 						<div class="row">
 							<div class="col-sm-8">
-								<h4 class="menu-title">Mix Vegetable Pulao</h4>
-								<div class="menu-detail">Steamed Basmati rice with mix vegetable</div>
+								<h4 class="menu-title">Roti</h4>
+								<div class="menu-detail">Whole wheat bread baked in a clay oven</div>
                                                                 
                                                         </div>
 							<div class="col-sm-4 menu-price-detail">
-								<h4 class="menu-price">$6.49</h4>
+								<h4 class="menu-price">$1.49</h4>
+							</div>
+						</div>
+					</div>
+                                        <div class="menu">
+						<div class="row">
+							<div class="col-sm-8">
+								<h4 class="menu-title">Onion Kulcha</h4>
+								<div class="menu-detail">Delicious Tandoori bread baked and stuffed with onions</div>
+                                                                
+                                                        </div>
+							<div class="col-sm-4 menu-price-detail">
+								<h4 class="menu-price">$3.49</h4>
 							</div>
 						</div>
 					</div>
@@ -700,28 +512,39 @@
                                         <div class="menu">
 						<div class="row">
 							<div class="col-sm-8">
-								<h4 class="menu-title">Shrimp Biryani</h4>
-								<div class="menu-detail">Basmati rice cooked with tiger shrimp in blend of curry and flavored with nuts and raisins</div>
+								<h4 class="menu-title">Butter Naan</h4>
+								<div class="menu-detail">Tandoori bread layered with butter and baked in a clay oven</div>
 							</div>
 							<div class="col-sm-4 menu-price-detail">
-								<h4 class="menu-price">$11.99</h4>
-								<div class="menu-label">New</div>
+								<h4 class="menu-price">$2.49</h4>
+								 
 							</div>
 						</div>
 					</div>
                                     
-                                        
-					<div class="menu">
+                                        <div class="menu">
+						<div class="row">
+							<div class="col-sm-8">
+								<h4 class="menu-title">Naan</h4>
+								<div class="menu-detail">White flour bread baked in a clay oven</div>
+							</div>
+							<div class="col-sm-4 menu-price-detail">
+								<h4 class="menu-price">$1.49</h4>
+							</div>
+						</div>
+					</div>
+                                    
+                                        <div class="menu">
                                             
 						<div class="row">
                                                    		
 							<div class="col-sm-8">
-								<h4 class="menu-title">Jeera Rice </h4>
-								<div class="menu-detail">Steamed Basmati rice with cumin seeds</div>
+								<h4 class="menu-title">Parantha (Aloo, Gobi, Paneer) </h4>
+								<div class="menu-detail">Pan-fried whole wheat Indian flatbread, stuffed with (potatoes, cauliflower or homemade cheese) </div>
                                                                  
                                                         </div>
 							<div class="col-sm-4 menu-price-detail">
-								<h4 class="menu-price">$3.99</h4>
+								<h4 class="menu-price">$3.49</h4>
 							</div>
 						</div>
 					</div>
@@ -733,8 +556,325 @@
 					<div class="menu">
 						<div class="row">
 							<div class="col-sm-8">
-								<h4 class="menu-title">Biryani (Mutton or Chicken)</h4>
-								<div class="menu-detail">Boneless Lamb or chicken marinated with spices and cooked with basmati rice flavored with nuts and raisin</div>
+								<h4 class="menu-title">Garlic Naan</h4>
+								<div class="menu-detail">Tandoori bread baked stuffed with fresh garlic</div>
+							</div>
+							<div class="col-sm-4 menu-price-detail">
+								<h4 class="menu-price">$3.49</h4>
+							</div>
+						</div>
+					</div>
+
+					
+                                    
+                                        <div class="menu">
+						<div class="row">
+							<div class="col-sm-8">
+								<h4 class="menu-title">Parantha </h4>
+								<div class="menu-detail">Crispy pan-fried whole wheat flatbread</div>
+							</div>
+							<div class="col-sm-4 menu-price-detail">
+								<h4 class="menu-price">$2.49</h4>
+							</div>
+						</div>
+					</div>
+
+					
+
+				</div><!-- .col-sm-4 -->
+
+			</div>
+                        
+                        <div class="col-sm-6 col-sm-offset-3">
+					<div class="devider">
+                                             <h3 class="module-title">Lamb/Mutton Dishes</h3>
+						<img src="assets/images/divider-down.svg" alt="">
+                                                <br>    <br>
+					</div>
+                                    <br>
+			</div><!-- .row  -->
+                        
+                        
+                        <div class="row"> <!-- .row  Lamb/Mutton Dishes  Start-->
+                            
+				<div class="col-sm-4">
+                                        <div class="menu">
+						<div class="row">
+							<div class="col-sm-8">
+								<h4 class="menu-title">Mutton Do Piazza </h4>
+								<div class="menu-detail">Choice of goat or lamb cooked in onions, tomatoes with Indian spices and herbs</div>
+							</div>
+							<div class="col-sm-4 menu-price-detail">
+								<h4 class="menu-price">$10.49</h4>
+							</div>
+						</div>
+					</div>
+                                    
+                                        <div class="menu">
+						<div class="row">
+							<div class="col-sm-8">
+								<h4 class="menu-title">Mutton Vindaloo</h4>
+								<div class="menu-detail">Choice of goat or lamb cooked in special Vindaloo gravy with chunks of potato and hot sauce of red chilies and vinegar </div>
+                                                                
+                                                        </div>
+							<div class="col-sm-4 menu-price-detail">
+								<h4 class="menu-price">$10.49</h4>
+							</div>
+						</div>
+					</div>
+                                        <div class="menu">
+						<div class="row">
+							<div class="col-sm-8">
+								<h4 class="menu-title">Mutton Masala</h4>
+								<div class="menu-detail">Choice of goat or lamb cooked in special thick gravy with green peas and spices/herbs</div>
+                                                                
+                                                        </div>
+							<div class="col-sm-4 menu-price-detail">
+								<h4 class="menu-price">$10.49</h4>
+							</div>
+						</div>
+					</div>
+                                     
+				</div><!-- .col-sm-4 -->
+                                
+                                
+
+				<div class="col-sm-4">
+                                    
+                                        <div class="menu">
+						<div class="row">
+							<div class="col-sm-8">
+								<h4 class="menu-title">Mutton Saag</h4>
+								<div class="menu-detail">Choice of goat or lamb cooked in a smooth spinach gravy </div>
+							</div>
+							<div class="col-sm-4 menu-price-detail">
+								<h4 class="menu-price">$10.99</h4>
+								 
+							</div>
+						</div>
+					</div>
+                                    
+                                        
+                                    
+                                        <div class="menu">
+                                            
+						<div class="row">
+                                                   		
+							<div class="col-sm-8">
+								<h4 class="menu-title">Mutton Curry</h4>
+								<div class="menu-detail">Choice of goat or lamb meat cooked in a curry flavored with authentic Indian spices and herbs</div>
+                                                                 
+                                                        </div>
+							<div class="col-sm-4 menu-price-detail">
+								<h4 class="menu-price">$10.49</h4>
+							</div>
+						</div>
+					</div>
+                                    
+                                        <div class="menu">
+                                            
+						<div class="row">
+                                                   		
+							<div class="col-sm-8">
+								<h4 class="menu-title">Rogan Josh</h4>
+								<div class="menu-detail">Lamb cooked in Kashmiri style with Indian spices, homemade yogurt and herbs</div>
+                                                                 
+                                                        </div>
+							<div class="col-sm-4 menu-price-detail">
+								<h4 class="menu-price">$10.99</h4>
+							</div>
+						</div>
+					</div>
+                                    
+				</div><!-- .col-sm-4 -->
+
+				<div class="col-sm-4">
+
+					<div class="menu">
+						<div class="row">
+							<div class="col-sm-8">
+								<h4 class="menu-title">Karahi Mutton </h4>
+								<div class="menu-detail">Lamb cooked with Indian spices and herbs in a wok</div>
+							</div>
+							<div class="col-sm-4 menu-price-detail">
+								<h4 class="menu-price">$10.99</h4>
+							</div>
+						</div>
+					</div>
+
+					
+                                    
+                                        <div class="menu">
+						<div class="row">
+							<div class="col-sm-8">
+								<h4 class="menu-title">Mutton Madrasi  </h4>
+								<div class="menu-detail">Choice of goat or lamb cooked in special South Indian coconut gravy prepared with Indian spices and herbs</div>
+							</div>
+							<div class="col-sm-4 menu-price-detail">
+								<h4 class="menu-price">$10.49</h4>
+							</div>
+						</div>
+					</div>
+                                    
+                                        <div class="menu">
+						<div class="row">
+							<div class="col-sm-8">
+								<h4 class="menu-title">Mutton Korma </h4>
+								<div class="menu-detail">Choice of goat or lamb cooked with authentic Indian spices in a rich gravy and flavored with nuts and raisin</div>
+							</div>
+							<div class="col-sm-4 menu-price-detail">
+								<h4 class="menu-price">$10.99</h4>
+							</div>
+						</div>
+					</div>
+
+					
+
+				</div><!-- .col-sm-4 -->
+
+			</div><!-- .row  Lamb/Mutton Dishes  End-->
+                        
+                        
+                        <div class="col-sm-6 col-sm-offset-3">
+					<div class="devider">
+                                             <h3 class="module-title">Chicken Dishes</h3>
+						<img src="assets/images/divider-down.svg" alt="">
+                                                <br>    <br>
+					</div>
+                                    <br>
+			</div><!-- .row  -->
+                        
+                        
+                        <div class="row"> <!-- .row Chicken Dishes Start-->
+                            
+				<div class="col-sm-4">
+                                        
+                                        <div class="menu">
+						<div class="row">
+							<div class="col-sm-8">
+								<h4 class="menu-title">Karahi Chicken</h4>
+								<div class="menu-detail">Chicken and green bell peppers cooked with Indian spices and herbs in a rich gravy </div>
+							</div>
+							<div class="col-sm-4 menu-price-detail">
+								<h4 class="menu-price">$10.99</h4>
+							</div>
+						</div>
+					</div>
+                                    
+                                        <div class="menu">
+						<div class="row">
+							<div class="col-sm-8">
+								<h4 class="menu-title">Butter Chicken</h4>
+								<div class="menu-detail">Boneless tandoori chicken cooked in a rich tomato sauce with a creamy gravy </div>
+                                                                
+                                                        </div>
+							<div class="col-sm-4 menu-price-detail">
+								<h4 class="menu-price">$10.99</h4>
+							</div>
+						</div>
+					</div>
+                                        <div class="menu">
+						<div class="row">
+							<div class="col-sm-8">
+								<h4 class="menu-title">Chicken Mughlai </h4>
+								<div class="menu-detail">Boneless chicken cooked in special dried fruit gravy with Indian spices</div>
+                                                                
+                                                        </div>
+							<div class="col-sm-4 menu-price-detail">
+								<h4 class="menu-price">$10.99</h4>
+							</div>
+						</div>
+					</div>
+                                    
+                                         <div class="menu">
+						<div class="row">
+							<div class="col-sm-8">
+								<h4 class="menu-title">Chicken Madrasi </h4>
+								<div class="menu-detail">Chicken cooked in south Indian coconut gravy prepared with Indian spices/herbs </div>
+							</div>
+							<div class="col-sm-4 menu-price-detail">
+								<h4 class="menu-price">$10.49</h4>
+								 
+							</div>
+						</div>
+					</div>
+                                     
+				</div><!-- .col-sm-4 -->
+                                
+                                
+
+				<div class="col-sm-4">
+                                    
+                                        <div class="menu">
+						<div class="row">
+							<div class="col-sm-8">
+								<h4 class="menu-title">Chicken Masala Tikka </h4>
+								<div class="menu-detail">Boneless tandoori chicken and bell peppers cooked with special Indian spices and herbs in a tomato gravy </div>
+							</div>
+							<div class="col-sm-4 menu-price-detail">
+								<h4 class="menu-price">$10.99</h4>
+								 
+							</div>
+						</div>
+					</div>
+                                    
+                                        
+                                    
+                                        <div class="menu">
+                                            
+						<div class="row">
+                                                   		
+							<div class="col-sm-8">
+								<h4 class="menu-title">Chicken Vindaloo </h4>
+								<div class="menu-detail">Boneless chicken cooked in a special Vindaloo gravy with chunky of potato</div>
+                                                                 
+                                                        </div>
+							<div class="col-sm-4 menu-price-detail">
+								<h4 class="menu-price">$10.49</h4>
+							</div>
+						</div>
+					</div>
+                                    
+                                        <div class="menu">
+                                            
+						<div class="row">
+                                                   		
+							<div class="col-sm-8">
+								<h4 class="menu-title">Chicken Korma</h4>
+								<div class="menu-detail">Chicken cooked with Indian spice/herbs in curry flavored with nuts and raisins </div>
+                                                                 
+                                                        </div>
+							<div class="col-sm-4 menu-price-detail">
+								<h4 class="menu-price">$10.49</h4>
+							</div>
+						</div>
+					</div>
+                                    
+                                        <div class="menu">
+                                            
+						<div class="row">
+                                                   		
+							<div class="col-sm-8">
+								<h4 class="menu-title">Chicken Saag </h4>
+								<div class="menu-detail">Chicken cooked with fresh spinach and spices</div>
+                                                                 
+                                                        </div>
+							<div class="col-sm-4 menu-price-detail">
+								<h4 class="menu-price">$10.99</h4>
+							</div>
+						</div>
+					</div>
+                                    
+				</div><!-- .col-sm-4 -->
+
+				<div class="col-sm-4">
+
+				
+                                        <div class="menu">
+						<div class="row">
+							<div class="col-sm-8">
+								<h4 class="menu-title">Chicken Curry </h4>
+								<div class="menu-detail">Boneless chicken cooked with Indian spices and herbs in a rich gravy, spices and herbs </div>
 							</div>
 							<div class="col-sm-4 menu-price-detail">
 								<h4 class="menu-price">$10.49</h4>
@@ -747,11 +887,23 @@
                                         <div class="menu">
 						<div class="row">
 							<div class="col-sm-8">
-								<h4 class="menu-title">Matar Paneer Pulao</h4>
-								<div class="menu-detail">Steamed Basmati rice cooked with green peas and homemade cheese </div>
+								<h4 class="menu-title">Chicken Masala</h4>
+								<div class="menu-detail">Chicken cooked in thick tomato gravy with green peas, spices and herbs</div>
 							</div>
 							<div class="col-sm-4 menu-price-detail">
-								<h4 class="menu-price">$7.49</h4>
+								<h4 class="menu-price">$10.49</h4>
+							</div>
+						</div>
+					</div>
+                                    
+                                        <div class="menu">
+						<div class="row">
+							<div class="col-sm-8">
+								<h4 class="menu-title">Chicken Do Piazza</h4>
+								<div class="menu-detail">Chicken cooked with onions, tomatoes and chilies in Indian spices and herbs</div>
+							</div>
+							<div class="col-sm-4 menu-price-detail">
+								<h4 class="menu-price">$10.49</h4>
 							</div>
 						</div>
 					</div>
@@ -767,176 +919,6 @@
 
 	<!-- Popular end -->
 
-	<!-- Callout section start -->
-
-	<section id="callout-three" class="callout bg-dark-alfa-30">
-		<div class="container">
-
-			<div class="row">
-
-				<div class="col-sm-10 col-sm-offset-1">
-					<div class="testimonials-slider">
-
-						<!-- Slide 1 -->
-						<div class="owl-item">
-							<blockquote>Sea food and the best view. Nothing in excess.</blockquote>
-							<div class="testimonial-author">
-								<div class="row">
-									<div class="col-sm-6 testimonial-avatar">
-										<img src="assets/images/avater/1.jpg" alt="">
-									</div>
-									<div class="col-sm-6 testimonial-info">
-										<h4>Jack Woods</h4>
-										<div class="stars">
-											<i class="fa fa-star"></i>
-											<i class="fa fa-star"></i>
-											<i class="fa fa-star"></i>
-											<i class="fa fa-star"></i>
-											<i class="fa fa-star star-off"></i>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-
-						<!-- Slide 2 -->
-						<div class="owl-item">
-							<blockquote>I love this place!</blockquote>
-							<div class="testimonial-author">
-								<div class="row">
-									<div class="col-sm-6 testimonial-avatar">
-										<img src="assets/images/avater/2.jpg" alt="">
-									</div>
-									<div class="col-sm-6 testimonial-info">
-										<h4>Andy River</h4>
-										<div class="stars">
-											<i class="fa fa-star"></i>
-											<i class="fa fa-star"></i>
-											<i class="fa fa-star"></i>
-											<i class="fa fa-star"></i>
-											<i class="fa fa-star"></i>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-
-						<!-- Slide 3 -->
-						<div class="owl-item">
-							<blockquote>Perhaps the most romantic place in the city.</blockquote>
-							<div class="testimonial-author">
-								<div class="row">
-									<div class="col-sm-6 testimonial-avatar">
-										<img src="assets/images/avater/3.jpg" alt="">
-									</div>
-									<div class="col-sm-6 testimonial-info">
-										<h4>Jimmy Stone</h4>
-										<div class="stars">
-											<i class="fa fa-star"></i>
-											<i class="fa fa-star"></i>
-											<i class="fa fa-star"></i>
-											<i class="fa fa-star star-off"></i>
-											<i class="fa fa-star star-off"></i>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-
-					</div><!-- .testimonials-slider -->
-				</div><!-- .col-sm-10 -->
-
-			</div><!-- .row -->
-
-		</div><!-- .container -->
-	</section>
-
-	<!-- Callout section end -->
-
-	<!-- Services start -->
-
-	<section id="services" class="module">
-		<div class="container">
-
-			<div class="row">
-				<div class="col-sm-6 col-sm-offset-3">
-					<div class="module-header">
-						<h2 class="module-title">We provide the following</h2>
-						<h3 class="module-subtitle">Services</h3>
-					</div>
-				</div>
-			</div><!-- .row -->
-
-			<div class="row">
-
-				<div class="col-sm-3">
-					<div class="iconbox">
-						<div class="iconbox-body equal-height">
-							<div class="iconbox-icon"><span class="icon-calendar"></span></div>
-							<div class="iconbox-text">
-								<h3 class="iconbox-title">Opened 24/7</h3>
-								<div class="iconbox-desc">
-									Thus, then, one of our own noble stamp, even a whaleman, is the tutelary guardian of England.
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-
-				<div class="col-sm-3">
-					<div class="iconbox ">
-						<div class="iconbox-body equal-height">
-							<div class="iconbox-icon"><span class="icon-directions"></span></div>
-							<div class="iconbox-text">
-								<h3 class="iconbox-title">Free parking</h3>
-								<div class="iconbox-desc">
-									Thus, then, one of our own noble stamp, even a whaleman, is the tutelary guardian of England.
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-
-				<div class="col-sm-3">
-					<div class="iconbox">
-						<div class="iconbox-body equal-height">
-							<div class="iconbox-icon"><span class="icon-map"></span></div>
-							<div class="iconbox-text">
-								<h3 class="iconbox-title">Central Location</h3>
-								<div class="iconbox-desc">
-									Thus, then, one of our own noble stamp, even a whaleman, is the tutelary guardian of England.
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-
-				<div class="col-sm-3">
-					<div class="iconbox">
-						<div class="iconbox-body equal-height">
-							<div class="iconbox-icon"><span class="icon-like"></span></div>
-							<div class="iconbox-text">
-								<h3 class="iconbox-title">High quality</h3>
-								<div class="iconbox-desc">
-									Thus, then, one of our own noble stamp, even a whaleman, is the tutelary guardian of England.
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-
-			</div><!-- .row -->
-
-			<div class="row">
-				<div class="col-sm-8 col-sm-offset-2 text-center long-up">
-					* Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it.
-				</div>
-			</div><!-- .row -->
-
-		</div><!-- .container -->
-	</section>
-
-	<!-- Services end -->
 
 	<!-- Gallery start -->
 
@@ -1078,182 +1060,44 @@
 
 	<!-- Gallery end -->
 
-	<!-- Reservations start -->
+	
+<div class="parallax"></div>
 
-	<section id="reservations" class="module">
+	<section id="callout-three" class="callout bg-dark-alfa-60">
 		<div class="container">
-
-			<div class="row">
-				<div class="col-sm-6 col-sm-offset-3">
-					<div class="module-header">
-						<h2 class="module-title">Make a reservation</h2>
-						<h3 class="module-subtitle">Book a table</h3>
+		<div class="col-sm-6 col-sm-offset-3">
+					<div class="devider">
+						<img src="assets/images/divider-top.svg" alt="">
 					</div>
 				</div>
-			</div><!-- .row -->
-
 			<div class="row">
-
-				<div class="col-sm-8 col-sm-offset-2">
-
-					<form id="booking-form" role="form" data-mobiletimepiker="On" novalidate>
-
-						<div class="row">
-							<div class="col-sm-6 form-group">
-								<label class="sr-only" for="bname">Name</label>
-								<input type="text" id="bname" class="form-control" name="bname" placeholder="Name" required data-validation-required-message="Please enter your name.">
-								<p class="help-block text-danger"></p>
-							</div>
-
-							<div class="col-sm-6 form-group">
-								<label class="sr-only" for="bphone">Phone</label>
-								<input type="number" id="bphone" class="form-control" name="bphone" placeholder="Phone" required data-validation-required-message="Please enter your phone number.">
-								<p class="help-block text-danger"></p>
-							</div>
-						</div><!-- .row -->
-
-						<div class="row">
-							<div class="col-sm-6 form-group">
-								<label class="sr-only" for="bemail">Email</label>
-								<input type="email" id="bemail" class="form-control" name="bemail" placeholder="Email" required data-validation-required-message="Please enter your email address.">
-								<p class="help-block"></p>
-							</div>
-
-							<div class="col-sm-6 form-group">
-								<label class="sr-only" for="bpeople">How many people?</label>
-								<input type="text" id="bpeople" class="form-control" name="bpeople" placeholder="How many people?" required data-validation-required-message="Please enter number of guests.">
-								<p class="help-block text-danger"></p>
-							</div>
-						</div><!-- .row -->
-
-						<div class="row">
-							<div class="col-sm-6 form-group">
-								<label class="sr-only" for="bdate">Date</label>
-								<input type="text" id="bdate" class="form-control" name="bdate" placeholder="Date" required data-validation-required-message="Please enter reservation date.">
-								<p class="help-block text-danger"></p>
-							</div>
-
-							<div class="col-sm-6 form-group">
-								<label class="sr-only" for="btime">Time</label>
-								<input type="text" id="btime" class="form-control" name="btime" placeholder="Time" autocomplete="off" required data-validation-required-message="Please enter your arrival time.">
-								<p class="help-block text-danger"></p>
-							</div>
-						</div><!-- .row -->
-
-						<div class="row">
-							<div class="col-sm-12 form-group">
-								<textarea class="form-control" id="bmessage" name="bmessage" rows="4" placeholder="Special Requests" required data-validation-required-message="Please enter your special requests."></textarea>
-								<p class="help-block text-danger"></p>
-							</div>
-						</div><!-- .row -->
-
-						<div class="row">
-							<div class="col-sm-12 text-center">
-								<button type="submit" class="btn btn-custom-1">Submit</button>
-							</div>
-						</div><!-- .row -->
-
-					</form>
-					<!-- Ajax response -->
-					<div id="booking-response" class="ajax-response"></div>
-
+				<div class="col-sm-10 col-sm-offset-1">
+					<h2 class="callout-text">Contact us.</h2>
 				</div>
 			</div><!-- .row -->
 
 		</div><!-- .container -->
 	</section>
+	
 
-	<!-- Reservations end -->
+	<!-- Map start -->
 
-	<!-- Twitter start -->
+        <section id="map-section" class="heightfull">
 
-	<section id="twitter" class="module module-gray">
-		<div class="container">
+		<div id="map"></div>
 
-			<div class="row">
-				<div class="col-sm-6 col-sm-offset-3">
-					<div class="module-header">
-						<h2 class="module-title">Twitter feed</h2>
-						<h3 class="module-subtitle">Our news and events</h3>
-					</div>
-				</div>
-			</div><!-- .row -->
+		
 
-			<div class="row">
-				<div class="col-sm-8 col-sm-offset-2 text-center">
-					<div class="twitter owl-carousel"></div>
-				</div>
-			</div><!-- .row -->
-
-		</div><!-- .container -->
 	</section>
+
+	<!-- Map end -->
 
 	<!-- Twitter end -->
 
 	<!-- Subscribe start -->
 
-	<section id="subscribe" class="module module-dark">
-		<div class="container">
-
-			<div class="row">
-				<div class="col-sm-6 col-sm-offset-3">
-					<div class="module-header">
-						<h2 class="module-title">Subscribe</h2>
-						<h3 class="module-subtitle">Subscribe to our newsletter</h3>
-					</div>
-				</div>
-			</div><!-- .row -->
-
-			<div class="row">
-
-				<div class="col-sm-6 col-sm-offset-3">
-					<form id="subscription-form" role="form" novalidate>
-						<div class="row">
-
-							<div class="col-sm-6 form-group">
-								<label class="sr-only" for="sname">Name</label>
-								<input type="text" id="sname" class="form-control" name="sname" placeholder="Name" required data-validation-required-message="Please enter your name.">
-								<p class="help-block text-danger"></p>
-							</div>
-
-							<div class="col-sm-6 form-group">
-								<label class="sr-only" for="ssurname">Surname</label>
-								<input type="text" id="ssurname" class="form-control" name="ssurname" placeholder="Surname" required data-validation-required-message="Please enter your surname.">
-								<p class="help-block text-danger"></p>
-							</div>
-
-							<div class="col-sm-12 form-group">
-								<label class="sr-only" for="semail">Your Email</label>
-								<input type="email" id="semail" name="semail" class="form-control" placeholder="Your Email" required data-validation-required-message="Please enter your email address.">
-								<p class="help-block text-danger"></p>
-							</div>
-
-							<div class="col-sm-12 text-center">
-								<button type="submit" class="btn btn-default btn-custom-2">Subscribe</button>
-							</div>
-
-						</div><!-- .row -->
-					</form>
-					<!-- Ajax response -->
-					<div id="subscription-response" class="ajax-response"></div>
-				</div>
-
-			</div><!-- .row -->
-
-			<div class="row">
-				<div class="col-md-12 text-center long-up">
-					<ul class="social-links">
-						<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-						<li><a href="#"><i class="fa fa-twitter"></i></a></li>
-						<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-						<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-						<li><a href="#"><i class="fa fa-pinterest"></i></a></li>
-						<li><a href="#"><i class="fa fa-envelope"></i></a></li>
-					</ul>
-				</div>
-			</div><!-- .row -->
-
-		</div><!-- .container -->
+	<section id="subscribe" class=" module-dark">
+			
 	</section>
 
 	<!-- Subscribe end -->
@@ -1262,13 +1106,26 @@
 
 	<footer id="footer">
 		<div class="container">
-
+ 
 			<div class="row">
-				<div class="col-sm-12">
-                                    <p class="copyright" style="text-align: right">
+                                <div class="col-md-12">
+
+					<h4>Contact Details</h4>
+					<p><strong>Address:</strong> 1423 Gerrard St E, Toronto, ON M4L 1Z7. </p>
+					<p><strong>Phone:</strong> (416) 778-7366 </p>
+                                         <p>   &copy; 2017 All rights reserved for Regency Restaurant
+					</p>
+					
+				</div><!-- .col -->
+                             
+                               
+					 
+                                <p class="copyright" style="text-align: right">
                                             Website Developed By <a href="http://www.ruturajkalal.com">   <u>Ruturaj Kalal</u></a>
 					</p>
-				</div>
+                              
+                            
+				
 			</div><!-- .row -->
 
 		</div><!-- .container -->
@@ -1307,5 +1164,43 @@
 
 	<!-- Custom scripts -->
 	<script src="assets/js/custom.js"></script>
+        <!-- Google Maps -->
+	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBceNl50o3BU6LrsIGJxSL9tKKvqBKIeVs"></script>
+	<script>
+		// When the window has finished loading create our google map below
+		google.maps.event.addDomListener(window, 'load', init);
+
+		function init() {
+			// Basic options for a simple Google Map
+			// For more options see: https://developers.google.com/maps/documentation/javascript/reference#MapOptions
+			var mapOptions = {
+				// How zoomed in you want the map to start at (always required)
+				zoom: 11,
+
+				scrollwheel: false,
+
+				// The latitude and longitude to center the map (always required)
+				center: new google.maps.LatLng(43.672015, -79.32242,15), // New York
+
+				// How you would like to style the map. 
+				// This is where you would paste any style found on Snazzy Maps.
+				styles: [{"featureType":"water","elementType":"geometry","stylers":[{"color":"#e9e9e9"},{"lightness":17}]},{"featureType":"landscape","elementType":"geometry","stylers":[{"color":"#f5f5f5"},{"lightness":20}]},{"featureType":"road.highway","elementType":"geometry.fill","stylers":[{"color":"#ffffff"},{"lightness":17}]},{"featureType":"road.highway","elementType":"geometry.stroke","stylers":[{"color":"#ffffff"},{"lightness":29},{"weight":0.2}]},{"featureType":"road.arterial","elementType":"geometry","stylers":[{"color":"#ffffff"},{"lightness":18}]},{"featureType":"road.local","elementType":"geometry","stylers":[{"color":"#ffffff"},{"lightness":16}]},{"featureType":"poi","elementType":"geometry","stylers":[{"color":"#f5f5f5"},{"lightness":21}]},{"featureType":"poi.park","elementType":"geometry","stylers":[{"color":"#dedede"},{"lightness":21}]},{"elementType":"labels.text.stroke","stylers":[{"visibility":"on"},{"color":"#ffffff"},{"lightness":16}]},{"elementType":"labels.text.fill","stylers":[{"saturation":36},{"color":"#333333"},{"lightness":40}]},{"elementType":"labels.icon","stylers":[{"visibility":"off"}]},{"featureType":"transit","elementType":"geometry","stylers":[{"color":"#f2f2f2"},{"lightness":19}]},{"featureType":"administrative","elementType":"geometry.fill","stylers":[{"color":"#fefefe"},{"lightness":20}]},{"featureType":"administrative","elementType":"geometry.stroke","stylers":[{"color":"#fefefe"},{"lightness":17},{"weight":1.2}]}]
+			};
+
+			// Get the HTML DOM element that will contain your map 
+			// We are using a div with id="map" seen below in the <body>
+			var mapElement = document.getElementById('map');
+
+			// Create the Google Map using our element and options defined above
+			var map = new google.maps.Map(mapElement, mapOptions);
+
+			// Let's also add a marker while we're at it
+			var marker = new google.maps.Marker({
+				position: new google.maps.LatLng(43.672015, -79.32242,15),
+				map: map,
+				title: 'Snazzy!'
+			});
+		}
+	</script>	
 </body>
 </html>
